@@ -1,4 +1,4 @@
-# Dog-Breed-Classifier-Assignment
+# Classification of Dog Breeds
 
 In this assignment, we are provided with dataset of dogs containing images of 120 different breeds of dogs. 
 Our job is to make a Deep learning model that will be able to classify 10 different breeds of dogs. 
@@ -9,12 +9,12 @@ This is an end-to-end Machine Learning project.
 ### Installation
 - Clone this repo
 ```bash
-git clone https://github.com/AshiishKarhade/Dog-Breed-Classifier-Assignment.git
+git clone https://github.com/yashsangolkar/classification-of-dogs-breeds.git
 ```
 
 - Change the directory
 ```bash
-cd Dog-Breed-Classifier-Assignment
+cd __PROJECT_FOLDER__
 ```
 
 - Install the requirements
@@ -54,15 +54,15 @@ or on https://localhost:5000 (if you are running locally)
 - The model is made from transfer learning of very famous architecture, **ResNet50** and fine tuning the model for our preference. 
 
 - Accuracy vs Val-accuracy
-![acc-valacc](https://github.com/AshiishKarhade/Dog-Breed-Classifier-Assignment/blob/main/accuracy.png)
+![acc-valacc](https://github.com/yashsangolkar/classification-of-dogs-breeds/blob/main/accuracy.png)
 
 - Loss vs val-loss
-![acc-valacc](https://github.com/AshiishKarhade/Dog-Breed-Classifier-Assignment/blob/main/loss.png)
+![acc-valacc](https://github.com/yashsangolkar/classification-of-dogs-breeds/blob/main/loss.png)
 
 ### Metrics
 
 - Confusion Matrix
-![acc-valacc](https://github.com/AshiishKarhade/Dog-Breed-Classifier-Assignment/blob/main/confusion_matrix.png)
+![acc-valacc](https://github.com/yashsangolkar/classification-of-dogs-breeds/blob/main/confusion_matrix.png)
 
 
 # classification-of-dogs-breeds
